@@ -18,4 +18,3 @@ Technologies Used
 HTML
 CSS
 JavaScript
-Future Enhancements
