@@ -1,0 +1,46 @@
+.bg-section{
+    background-color: rgb(153, 177, 177);
+    height: 100vh;
+}
+.input-field {
+    padding: 10px;
+    font-size: 20px;
+    background-color: ghostwhite;
+    border: 2px solid ghostwhite;
+}
+.input-field:focus{
+    border-color: rgb(28, 126, 165);
+    box-shadow: 0 0 8px rgb(28, 126, 165);
+    outline: none;
+}
+
+.add-btn {
+    padding: 10px;
+    margin-left: 10px;
+    background-color: rgb(62, 139, 170);
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.add-btn:hover {
+    background-color: rgb(28, 126, 165);
+}
+
+.task-box {
+    margin-top: 20px;
+}
+
+.task-wrapper {
+    border: 1px solid #ced4da;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #f8f9fa;
+    width: 60vw;
+    font-size: 25px;
+}
+
+.btn {
+    cursor: pointer;
+}
