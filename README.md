@@ -10,7 +10,8 @@ Local Storage: Tasks are stored in the browser's local storage, so they persist 
 
 Interactive UI: The user interface is designed to be intuitive and user-friendly, with smooth transitions and animations.
 
-Clone the repository:  git clone https://github.com/yourusername/responsive-todolist.git
+Clone the repository: https://github.com/bhagiradhijayaram/Responsive_ToDo_List.git
+
 Screenshots
 
 Technologies Used
