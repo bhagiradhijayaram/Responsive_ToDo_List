@@ -14,6 +14,9 @@ Clone the repository: https://github.com/bhagiradhijayaram/Responsive_ToDo_List.
 
 Screenshots
 
+![Screenshot (245)](https://github.com/bhagiradhijayaram/Responsive_ToDo_List/assets/116064700/a2251402-6efa-4e2a-bff4-90d53ba74526)
+
+
 Technologies Used
 HTML
 CSS
